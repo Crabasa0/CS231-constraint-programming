@@ -17,7 +17,8 @@ Your task is to write a program to find a list of people who fit as many of the 
   7. Everyone knows someone else
   8. No one dislikes anyone else
   9. No mixing Democrats and Republicans
-  
+
+---------------------------------------------------------
   
 2. (tea.ecl) "Mrs. Spooner called this morning," said the honest grocer to his assistant. "She wants twenty pounds of tea at 2s. 4 1/2d. per lb. Of course we have a good 2s. 6d. tea, a slightly inferior at 2s. 3d., and a cheap Indian at 1s. 9d., but she is very particular always about her prices."
 
