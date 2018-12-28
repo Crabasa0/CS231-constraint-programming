@@ -1,5 +1,7 @@
 # constraint-programming
 
+Authors: This code was written by myself and Brandt Dudziak (brandtdudziak)
+
 The code generates solutions to the following problems:
 
 1. (party.pl) Write a Prolog program that finds a good set of people to invite to a party. You start with the following information:
